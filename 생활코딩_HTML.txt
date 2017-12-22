@@ -1,0 +1,50 @@
+생활코딩
+
+
+1강: https://youtu.be/OGFgdro160I   //HTML수업소개
+2강: https://youtu.be/33DjsANwlJk   //기술소개
+3강: https://youtu.be/jSJM9iOiQ1g   //기본문법1
+4강: https://youtu.be/zQTgBEWYbug   //기본문법2
+5강: https://youtu.be/AE7foaifXMU   //하이퍼텍스트와 속성
+6강: https://youtu.be/Oje3e4Ry5wE   //매킨토시 에디터 사용시 주의사항
+7강: https://youtu.be/JiuYfoSEac4   //태그의 중첩과 목록
+8강: https://youtu.be/gqg-toXZ_rE   //문서의 구조
+9강: https://youtu.be/EgT5520Ztek   //Doctype
+10강: https://youtu.be/EgT5520Ztek  //웹사이트 만들기
+11강: https://youtu.be/uim3Vr6crXI  //개발도구
+12강: https://youtu.be/9VM7du__sUY  //변천사와 통계
+13강: https://youtu.be/z7DiQe4wnLc  //단락 : P태그
+14강: https://youtu.be/HkX_3Kk5haE  //줄바꿈 : br
+15강: https://youtu.be/V_ogge8xfDs  //이미지: img
+16강: https://youtu.be/XUTFXu0f4qo  //표1:기본 - table
+17강: https://youtu.be/H84fuDj1Jxs  //표2:구조 
+18강: https://youtu.be/i7oKd-eKvdw  //표3:병합
+19강: https://youtu.be/sFtZdlmgCVY  //form:기본
+20강: https://youtu.be/-wMLXTISFFY  //form:문자입력
+21강: https://youtu.be/dNmubsrqDSA  //form:dropdown list
+22강: https://youtu.be/LYFOUIDBIp4  //form:radio/checkbox
+23강: https://youtu.be/LnlIrDXwEr0  //form:button
+24강: https://youtu.be/viGaQ2i8t44  //form:hidden field
+25강: https://youtu.be/_4upG-03td8  //form:label
+26강: https://youtu.be/OnX9TCSGvws  //form:method
+27강: https://youtu.be/XY5G4RN_LKg  //form:file upload
+28강: https://youtu.be/SfgcrR9952M  //정보로서의 HTML
+29강: https://youtu.be/pcOkHx1x3Y4  //font tag
+30강: https://youtu.be/zO5zHxX2lNI  //meta tag
+31강: https://youtu.be/uDmNhHYecL4  //의미론적인 태그 semantic
+32강: https://youtu.be/owK8xxL7pps  //검색엔진최적화 1
+33강: https://youtu.be/-G2aDXiF8zE  //검색엔진최적화 2
+34강: https://youtu.be/TDSmp-QxVRU  //검색엔진최적화 3
+35강: https://youtu.be/J_ZQhHpV6PQ  //검색엔진최적화 4 : 링크
+36강: https://youtu.be/jtjyNe1yfOM  //검색엔진최정화 5 : 이미지와 제목
+37강: https://youtu.be/hRmfZxXa3KA  //검색엔진최적화 6 : robotstxt & sitemap
+38강: https://youtu.be/tagJ0lm6CK8  //검색엔진최적화 7 : 페이지랭크
+39강: https://youtu.be/q_8rVZmMt6M  //웹 개발자 도구
+40강: https://youtu.be/rF2nkJCH55c  //모바일 지원
+41강: https://youtu.be/VNXx4Q2WFgU  //HTMM5의 새로운 제출양식 1
+42강: https://youtu.be/_VTxM1JUfwI  //HTMM5의 새로운 제출양식 2
+43강: https://youtu.be/36Z-N1wa9lA  //HTMM5의 form : 새로운 속성들
+44강: https://youtu.be/dJOhEj9_6gM  //HTMM5의 form : 입력 값 체크
+
+
+

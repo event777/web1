@@ -1,0 +1,15 @@
+Do It 자바스크립트&J쿼리 입문
+
+1강: https://youtu.be/ueT-YsHHdOA  자바스크립트 시작하기&프로그램 설치준비사항
+2강: https://youtu.be/KEyhV6Pp89U  기초문법/변수/연산자
+3강: https://youtu.be/WzXJFppj4P8  제어문/조건문/선택문/반복문
+4강: https://youtu.be/BAjSCyOP6sU  객체 /내장객체/ 브라우저 객체모델(BOM)/문서객체모델(DOM)
+5강: https://youtu.be/gQJ9WJTOmHg  함수 / 린턴문의역할 / 지역변수와 전역변수
+6강: https://youtu.be/wuR5ZiF9u4E  이벤트 / 이벤트 객체
+7강: https://youtu.be/g-0l2B3H-Go  J쿼리 문서객체 선택자및 조작
+8강: https://youtu.be/TxHYtzQ7Lkw  J쿼리 이벤트 / 메소드
+9강: https://youtu.be/Hq8YfhgRIfs  J쿼리 애니메이션 효과
+10강: https://youtu.be/pqaEibuhaXY J쿼리 Ajax
+11강: https://youtu.be/DZv-jD-7Mes J쿼리 플러그인
+12강: https://youtu.be/sbLphha040Y 프로젝트 실습
+13강: https://youtu.be/ygzMnpFgHZE 어도브 엣지 UX/UI개발
